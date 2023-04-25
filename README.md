@@ -10,3 +10,4 @@ one problem per day from codecademy
 * Middle Item
 * Larger Sum
 * Over 9000
+* Max Num
