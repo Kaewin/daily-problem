@@ -8,3 +8,5 @@ one problem per day from codecademy
 * More Frequent Item
 * Double Index
 * Middle Item
+* Larger Sum
+* Over 9000
