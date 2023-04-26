@@ -3,7 +3,7 @@ one problem per day from codecademy
 
 ## List:
 
-### CodeCademy [Code Challenges](https://duckduckgo.comhttps://www.codecademy.com/code-challenges)
+### CodeCademy [Code Challenges](https://www.codecademy.com/code-challenges)
 * Prime Number Finder
 
 ### CodeCademy - Python Code Challenges: Lists (Advanced)
