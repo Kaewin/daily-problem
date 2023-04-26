@@ -19,3 +19,11 @@ one problem per day from codecademy
 * Max Num
 * Same Values
 * Reversed List
+
+### CodeCademy - Python Code Challenges: Functions (Advanced)
+
+* First Three Multiples
+* Tip
+* Bond, James Bond
+* Dog Years
+* All Operations
