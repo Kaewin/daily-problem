@@ -3,7 +3,7 @@ one problem per day from codecademy
 
 ## List:
 
-### CodeCademy [Code Challenges](https://duckduckgo.comhttps://www.codecademy.com/code-challenges)
+### CodeCademy [Code Challenges](https://www.codecademy.com/code-challenges)
 * Prime Number Finder
 
 ### CodeCademy - Python Code Challenges: Lists (Advanced)
@@ -27,6 +27,7 @@ one problem per day from codecademy
 * Bond, James Bond
 * Dog Years
 * All Operations
+<<<<<<< HEAD
 
 ### Codecademy - Python Code Challenges: Strings
 
@@ -35,3 +36,5 @@ one problem per day from codecademy
 * Count Multi X
 * Substring Between
 * X Length
+=======
+>>>>>>> 5493c3ff5bc578ea75b35f15ca9a7f5e3bac6557
