@@ -27,7 +27,6 @@ one problem per day from codecademy
 * Bond, James Bond
 * Dog Years
 * All Operations
-<<<<<<< HEAD
 
 ### Codecademy - Python Code Challenges: Strings
 
@@ -36,5 +35,3 @@ one problem per day from codecademy
 * Count Multi X
 * Substring Between
 * X Length
-=======
->>>>>>> 
