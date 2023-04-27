@@ -27,3 +27,11 @@ one problem per day from codecademy
 * Bond, James Bond
 * Dog Years
 * All Operations
+
+### Codecademy - Python Code Challenges: Strings
+
+* Count Letters
+* Count X
+* Count Multi X
+* Substring Between
+* X Length
