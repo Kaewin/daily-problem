@@ -1,5 +1,5 @@
-# daily-problem
-one problem per day from codecademy
+# Daily Problem
+One problem per day from Codecademy.
 
 ## List:
 
