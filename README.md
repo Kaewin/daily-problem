@@ -35,3 +35,8 @@ One problem per day from Codecademy.
 * Count Multi X
 * Substring Between
 * X Length
+
+### Codecademy - Python Code Challenges : Strings (Advanced)
+
+* Check Name
+* Every Other Letter
