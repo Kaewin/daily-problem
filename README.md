@@ -40,3 +40,6 @@ One problem per day from Codecademy.
 
 * Check Name
 * Every Other Letter
+* Reverse
+* Make Spoonerism
+* Add Exclamation
