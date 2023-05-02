@@ -47,3 +47,4 @@ One problem per day from Codecademy.
 ### Codecademy - Python Code Challenges : Dictionaries
 
 * Sum Values
+* Even Keys
