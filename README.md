@@ -43,3 +43,7 @@ One problem per day from Codecademy.
 * Reverse
 * Make Spoonerism
 * Add Exclamation
+
+### Codecademy - Python Code Challenges : Dictionaries
+
+* Sum Values
