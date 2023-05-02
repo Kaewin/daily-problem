@@ -48,3 +48,4 @@ One problem per day from Codecademy.
 
 * Sum Values
 * Even Keys
+* Add Ten
