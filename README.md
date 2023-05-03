@@ -49,3 +49,5 @@ One problem per day from Codecademy.
 * Sum Values
 * Even Keys
 * Add Ten
+* Values That Are Keys
+* Largest Value
