@@ -51,3 +51,10 @@ One problem per day from Codecademy.
 * Add Ten
 * Values That Are Keys
 * Largest Value
+
+### Codecademy - Python Code Challenges : Dictionaries (Advanced)
+
+* Word Length Dict
+* Frequency Count
+* Unique Values
+* Count First Letter
