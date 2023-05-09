@@ -5,6 +5,7 @@ One problem per day from Codecademy.
 
 ### CodeCademy [Code Challenges](https://www.codecademy.com/code-challenges)
 * Prime Number Finder
+* FizzBuzz
 
 ### CodeCademy - Python Code Challenges: Lists (Advanced)
 * Every Three Numbers
@@ -60,3 +61,9 @@ One problem per day from Codecademy.
 * Count First Letter
 
 ### Codecademy - Python Code Challenges : Classes
+
+* Setting Up Our Robot
+* Adding Robot Logic
+* Enhanced Constructor
+* Controlling Them All
+* Identifying Robots
