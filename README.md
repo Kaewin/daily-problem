@@ -5,8 +5,13 @@ One problem per day from Codecademy.
 
 ## Leetcode:
 
-* TwoSum
-* Palindrome
+### Beginner:
+
+* (1) TwoSum
+* (9) Palindrome
+* (13) Roman To Integer
+
+## CodeCademy:
 
 ### CodeCademy [Code Challenges](https://www.codecademy.com/code-challenges)
 * Prime Number Finder
