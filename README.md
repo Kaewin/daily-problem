@@ -1,9 +1,9 @@
 # Daily Problem
 One problem per day from Codecademy.
 
-## List:
+# List:
 
-### Leetcode:
+## Leetcode:
 
 ### Beginner:
 
