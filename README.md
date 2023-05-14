@@ -3,6 +3,11 @@ One problem per day from Codecademy.
 
 ## List:
 
+## Leetcode:
+
+* TwoSum
+* Palindrome
+
 ### CodeCademy [Code Challenges](https://www.codecademy.com/code-challenges)
 * Prime Number Finder
 * FizzBuzz
