@@ -3,7 +3,7 @@ One problem per day from Codecademy.
 
 ## List:
 
-## Leetcode:
+### Leetcode:
 
 * TwoSum
 * Palindrome
