@@ -11,6 +11,7 @@ One problem per day from Codecademy.
 * (9) Palindrome
 * (13) Roman To Integer
 * (14) Longest Common Prefix
+* (20) Valid Parentheses
 
 ## CodeCademy:
 
