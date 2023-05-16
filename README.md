@@ -10,6 +10,7 @@ One problem per day from Codecademy.
 * (1) TwoSum
 * (9) Palindrome
 * (13) Roman To Integer
+* (14) Longest Common Prefix
 
 ## CodeCademy:
 
