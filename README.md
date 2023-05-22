@@ -12,6 +12,7 @@ One problem per day from Codecademy.
 * (13) Roman To Integer
 * (14) Longest Common Prefix
 * (20) Valid Parentheses
+* (21) Merge Two Sorted Lists
 
 ## CodeCademy:
 
