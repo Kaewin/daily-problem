@@ -14,6 +14,7 @@ One problem per day from Codecademy.
 * (20) Valid Parentheses
 * (21) Merge Two Sorted Lists
 * (26) Remove Duplicates From A Sorted Array
+* (27) Remove Element
 
 ## CodeCademy:
 
