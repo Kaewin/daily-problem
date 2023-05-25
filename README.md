@@ -16,6 +16,7 @@ One problem per day from Codecademy.
 * (26) Remove Duplicates From A Sorted Array
 * (27) Remove Element
 * (28) Find The Index Of The First Occurence In A String
+* (35) Search Insert Position
 
 ## CodeCademy:
 
