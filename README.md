@@ -18,6 +18,7 @@ One problem per day from Codecademy.
 * (28) Find The Index Of The First Occurence In A String
 * (35) Search Insert Position
 * (58) Length Of Last Word
+* (66) Plus One
 
 ## CodeCademy:
 
