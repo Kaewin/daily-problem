@@ -20,6 +20,7 @@ One problem per day from Codecademy.
 * (58) Length Of Last Word
 * (66) Plus One
 * (67) Add Binary
+* (69) Sqrt
 
 ## CodeCademy:
 
