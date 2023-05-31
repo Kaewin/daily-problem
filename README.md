@@ -21,6 +21,7 @@ One problem per day from Codecademy.
 * (66) Plus One
 * (67) Add Binary
 * (69) Sqrt
+* (70) Climbing Stairs
 
 ## CodeCademy:
 
