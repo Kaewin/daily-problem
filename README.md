@@ -22,6 +22,7 @@ One problem per day from Codecademy.
 * (67) Add Binary
 * (69) Sqrt
 * (70) Climbing Stairs
+* (83) Remove Duplicates From A Sorted List
 
 ## CodeCademy:
 
