@@ -23,6 +23,8 @@ One problem per day from Codecademy.
 * (69) Sqrt
 * (70) Climbing Stairs
 * (83) Remove Duplicates From A Sorted List
+* (88) Merge Sorted Array
+* (94) Binary Tree Inorder Traversal
 
 ## CodeCademy:
 
