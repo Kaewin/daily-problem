@@ -25,6 +25,7 @@ One problem per day from Codecademy.
 * (83) Remove Duplicates From A Sorted List
 * (88) Merge Sorted Array
 * (94) Binary Tree Inorder Traversal
+* (100) Same Tree
 
 ## CodeCademy:
 
