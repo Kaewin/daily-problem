@@ -26,6 +26,8 @@ One problem per day from Codecademy.
 * (88) Merge Sorted Array
 * (94) Binary Tree Inorder Traversal
 * (100) Same Tree
+* (101) Symmetric Tree
+* (104) Maximum Depth Of Binary Tree
 
 ## CodeCademy:
 
