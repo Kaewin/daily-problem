@@ -30,6 +30,7 @@ One problem per day from Codecademy.
 * (104) Maximum Depth Of Binary Tree
 * (108) Convert Sorted Array To Binary Search Tree
 * (110) Balanced Binary Tree
+* (111) Minimum Depth Of Binary Tree
 
 ## CodeCademy:
 
