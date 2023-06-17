@@ -31,6 +31,7 @@ One problem per day from Codecademy.
 * (108) Convert Sorted Array To Binary Search Tree
 * (110) Balanced Binary Tree
 * (111) Minimum Depth Of Binary Tree
+* (112) Path Sum
 
 ## CodeCademy:
 
