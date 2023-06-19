@@ -32,6 +32,7 @@ One problem per day from Codecademy.
 * (110) Balanced Binary Tree
 * (111) Minimum Depth Of Binary Tree
 * (112) Path Sum
+* (118) Pascal's Triangle
 
 ## CodeCademy:
 
