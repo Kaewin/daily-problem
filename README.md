@@ -34,6 +34,7 @@ One problem per day from Codecademy.
 * (112) Path Sum
 * (118) Pascal's Triangle
 * (119) Pascal's Triangle II
+* (121) Best Time To Buy And Sell Stock
 
 ## CodeCademy:
 
