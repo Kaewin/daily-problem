@@ -38,6 +38,7 @@ One problem per day from Codecademy.
 * (125) Valid Palindrome
 * (136) Single Number
 * (141) Linked List Cycle
+* (144) Binary Tree Preorder Traversal
 
 ## CodeCademy:
 
