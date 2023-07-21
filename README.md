@@ -39,6 +39,7 @@ One problem per day from Codecademy.
 * (136) Single Number
 * (141) Linked List Cycle
 * (144) Binary Tree Preorder Traversal
+* (145) Binary Tree Postorder Traversal
 
 ## CodeCademy:
 
