@@ -40,6 +40,7 @@ One problem per day from Codecademy.
 * (141) Linked List Cycle
 * (144) Binary Tree Preorder Traversal
 * (145) Binary Tree Postorder Traversal
+* (160) Intersection Of Two Linked Lists
 
 ## CodeCademy:
 
