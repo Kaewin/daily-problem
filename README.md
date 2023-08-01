@@ -42,6 +42,7 @@ One problem per day from Codecademy.
 * (145) Binary Tree Postorder Traversal
 * (160) Intersection Of Two Linked Lists
 * (168) Excel Sheet Column Title
+* (169) Majority Element
 
 ## CodeCademy:
 
