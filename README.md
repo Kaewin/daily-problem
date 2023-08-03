@@ -43,6 +43,7 @@ One problem per day from Codecademy.
 * (160) Intersection Of Two Linked Lists
 * (168) Excel Sheet Column Title
 * (169) Majority Element
+* (171) Excel Sheet Column Number
 
 ## CodeCademy:
 
